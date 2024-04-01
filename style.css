@@ -57,17 +57,7 @@ header ul li:hover a {
   padding: 100px;
 }
 
-/*#home::before{
-    content: '';
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    width: 50vw;
-    height: 25vw;
-    background: green;
-    border-top-right-radius: 25vw;
-    border-top-left-radius: 25vw;
-}*/
+
 #home .content {
   position: relative;
   display: flex;
